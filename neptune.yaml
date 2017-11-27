@@ -1,0 +1,8 @@
+project-key: CAT
+
+name: CATSDOGS
+description: First independent project!
+tags: []
+
+exclude:
+  - aux
